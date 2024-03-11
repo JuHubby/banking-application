@@ -48,11 +48,11 @@ The website should load and display the information. If you make updates in VSCo
 ## Roadmap of future improvements:
 There are numerous improvements and additions that can be implemented in this code. For example:
 
-### The banking app lacks security measures and is primarily a practice project for React app development.
-### Users can create accounts with minimal requirements and perform basic transactions, but transactions are not linked to specific users.
-### The intention is to improve the app by implementing measures such as user authentication and transaction encryption.
-### Additionally, the application architecture will be enhanced for scalability and maintainability.
-### Regular updates and security patching will be prioritized to maintain the app's reliability and protect user data.
+- The banking app lacks security measures and is primarily a practice project for React app development.
+- Users can create accounts with minimal requirements and perform basic transactions, but transactions are not linked to specific users.
+- The intention is to improve the app by implementing measures such as user authentication and transaction encryption.
+- Additionally, the application architecture will be enhanced for scalability and maintainability.
+ Regular updates and security patching will be prioritized to maintain the app's reliability and protect user data.
 
 ## License information:
 MIT license.
@@ -63,22 +63,3 @@ If you have any questions, please don't hesitate to contact me email <juliethpba
 
 Let's start a conversation and see where our collaboration might take us.
 
-
-### Mastering React: A Step-by-Step Guide to Creating Your App with Toolchain Assistance:
-
-Use the VS Code terminal with Git Bash after creating the directory and files for your React application (using toolchains), follow these steps. Ensure that, after creating the folder, you upload the Formik library and use NPM start to initialize your React app (note: you must be located in the directory of your new app). Also, there's no need to concern yourself with the multitude of folders and files that the React app creation process will download into your app directory. If you're a beginner, like myself, the only files you'll need to use are the `index.html` from the public folder and the `app.js` from the src folder—that's it. 
-
-
-#### 1.Step into the directory where you want your app to be located:
-cd name-of-app
-
-#### 2. Create a React app:
-npx create-react-app name-of-app
-
-#### 3. Install Formik:
-npm install formik --save
-
-#### 4.Start the React app:
-npm start
-
-Make sure to follow these steps in sequence, and remember to be in the directory of your new app when performing these actions. For more info go to the:[React Webpage](https://create-react-app.dev/docs/getting-started/)
